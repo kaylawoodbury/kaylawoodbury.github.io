@@ -1,6 +1,11 @@
 h1 {
-    color: #9fa9a3
+    color: #9fa9a3;
+    font-family:"Comic Sans MS", cursive, sans-serif ;
   }
+h2 {
+    color: #c5d5c5;
+    font-family:"Comic Sans MS", cursive, sans-serif ;  
+}
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #9fa9a3;
@@ -30,5 +35,11 @@ h1 {
   }
 
  body {
-      background-color: #ffffff
+      background-color: #ffffff;
+      font-family:"Comic Sans MS", cursive, sans-serif
+  }
+
+  .main_text {
+    text-indent: 10px;
+    font-family:"Comic Sans MS", cursive, sans-serif ;
   }
